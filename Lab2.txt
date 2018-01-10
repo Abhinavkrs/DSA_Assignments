@@ -1,1 +1,0 @@
-It is required to maintain a library database using a number of lists as mentioned: The list BOOKS contains the information like title, accession number, and tag field (to indicate whether a book is issued or not) for all the books in a library. Note that each book can be there in multiple copies, but there accession numbers are different. 
